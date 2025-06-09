@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Nadun :)
 - 👀 I’m interested in computers in general but more towards the wacky machine learning stuff...
-- 🌱 I’m currently learning zig and implementing my FYP project
+- 🌱 I’m working on a marine pollution detection solution.
 - 💞️ I’m looking to collaborate on A.I and innovative projects that try to create something new...
 - 📫 You can reach me through my mail: nadun.l.wijayaratne@gmail.com
 
